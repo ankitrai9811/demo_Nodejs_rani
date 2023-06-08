@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd xmlns="http://pmd.sourceforge.net/report/2.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pmd.sourceforge.net/report/2.0.0 http://pmd.sourceforge.net/report_2_0_0.xsd" version="6.53.0" timestamp="2023-05-09T18:07:51.787">
+<file name="C:\Users\sarbajeet.singh\OneDrive - HCL Technologies Ltd\Documents\ChatApplication_OnboardingPortal\ChatApplication_OnboardingPortal\src\main\java\com\mastercard\dxp\controller\ItemController.java">
+<violation beginline="6" endline="6" begincolumn="1" endcolumn="53" rule="UnnecessaryImport" ruleset="Code Style" package="com.mastercard.dxp.controller" class="ItemController" externalInfoUrl="https://pmd.github.io/pmd-6.53.0/pmd_rules_java_codestyle.html#unnecessaryimport" priority="4">
+Unused import 'org.springframework.dao.DuplicateKeyException'
+</violation>
+<violation beginline="21" endline="21" begincolumn="1" endcolumn="52" rule="UnnecessaryImport" ruleset="Code Style" package="com.mastercard.dxp.controller" class="ItemController" externalInfoUrl="https://pmd.github.io/pmd-6.53.0/pmd_rules_java_codestyle.html#unnecessaryimport" priority="4">
+Unused import 'com.mastercard.dxp.repository.ItemRepository'
+</violation>
+</file>
+<file name="C:\Users\sarbajeet.singh\OneDrive - HCL Technologies Ltd\Documents\ChatApplication_OnboardingPortal\ChatApplication_OnboardingPortal\src\main\java\com\mastercard\dxp\controller\SRController.java">
+<violation beginline="9" endline="9" begincolumn="1" endcolumn="58" rule="UnnecessaryImport" ruleset="Code Style" package="com.mastercard.dxp.controller" class="SRController" externalInfoUrl="https://pmd.github.io/pmd-6.53.0/pmd_rules_java_codestyle.html#unnecessaryimport" priority="4">
+Unused import 'org.springframework.web.bind.annotation.GetMapping'
+</violation>
+<violation beginline="23" endline="23" begincolumn="1" endcolumn="62" rule="UnnecessaryImport" ruleset="Code Style" package="com.mastercard.dxp.controller" class="SRController" externalInfoUrl="https://pmd.github.io/pmd-6.53.0/pmd_rules_java_codestyle.html#unnecessaryimport" priority="4">
+Unused import 'com.mastercard.dxp.repository.ServiceRequestRepository'
+</violation>
+</file>
+<file name="C:\Users\sarbajeet.singh\OneDrive - HCL Technologies Ltd\Documents\ChatApplication_OnboardingPortal\ChatApplication_OnboardingPortal\src\main\java\com\mastercard\dxp\controller\UserChatController.java">
+<violation beginline="9" endline="9" begincolumn="1" endcolumn="58" rule="UnnecessaryImport" ruleset="Code Style" package="com.mastercard.dxp.controller" class="UserChatController" externalInfoUrl="https://pmd.github.io/pmd-6.53.0/pmd_rules_java_codestyle.html#unnecessaryimport" priority="4">
+Unused import 'org.springframework.web.bind.annotation.GetMapping'
+</violation>
+<violation beginline="16" endline="16" begincolumn="1" endcolumn="48" rule="UnnecessaryImport" ruleset="Code Style" package="com.mastercard.dxp.controller" class="UserChatController" externalInfoUrl="https://pmd.github.io/pmd-6.53.0/pmd_rules_java_codestyle.html#unnecessaryimport" priority="4">
+Unused import 'com.mastercard.dxp.dto.ServiceRequestDto'
+</violation>
+<violation beginline="20" endline="20" begincolumn="1" endcolumn="48" rule="UnnecessaryImport" ruleset="Code Style" package="com.mastercard.dxp.controller" class="UserChatController" externalInfoUrl="https://pmd.github.io/pmd-6.53.0/pmd_rules_java_codestyle.html#unnecessaryimport" priority="4">
+Unused import 'com.mastercard.dxp.entity.ServiceRequest'
+</violation>
+<violation beginline="22" endline="22" begincolumn="1" endcolumn="56" rule="UnnecessaryImport" ruleset="Code Style" package="com.mastercard.dxp.controller" class="UserChatController" externalInfoUrl="https://pmd.github.io/pmd-6.53.0/pmd_rules_java_codestyle.html#unnecessaryimport" priority="4">
+Unused import 'com.mastercard.dxp.repository.UserChatRepository'
+</violation>
+</file>
+<file name="C:\Users\sarbajeet.singh\OneDrive - HCL Technologies Ltd\Documents\ChatApplication_OnboardingPortal\ChatApplication_OnboardingPortal\src\main\java\com\mastercard\dxp\controller\User_Controller.java">
+<violation beginline="13" endline="13" begincolumn="1" endcolumn="49" rule="UnnecessaryImport" ruleset="Code Style" package="com.mastercard.dxp.controller" class="User_Controller" externalInfoUrl="https://pmd.github.io/pmd-6.53.0/pmd_rules_java_codestyle.html#unnecessaryimport" priority="4">
+Unused import 'com.mastercard.dxp.entity.User_credential'
+</violation>
+</file>
+<file name="C:\Users\sarbajeet.singh\OneDrive - HCL Technologies Ltd\Documents\ChatApplication_OnboardingPortal\ChatApplication_OnboardingPortal\src\main\java\com\mastercard\dxp\dto\ItemDto.java">
+<violation beginline="6" endline="6" begincolumn="1" endcolumn="51" rule="UnnecessaryImport" ruleset="Code Style" package="com.mastercard.dxp.dto" class="ItemDto" externalInfoUrl="https://pmd.github.io/pmd-6.53.0/pmd_rules_java_codestyle.html#unnecessaryimport" priority="4">
+Unused import 'com.fasterxml.jackson.annotation.JsonIgnore'
+</violation>
+</file>
+<file name="C:\Users\sarbajeet.singh\OneDrive - HCL Technologies Ltd\Documents\ChatApplication_OnboardingPortal\ChatApplication_OnboardingPortal\src\main\java\com\mastercard\dxp\dto\ItemDto2.java">
+<violation beginline="7" endline="7" begincolumn="1" endcolumn="46" rule="UnnecessaryImport" ruleset="Code Style" package="com.mastercard.dxp.dto" class="ItemDto2" externalInfoUrl="https://pmd.github.io/pmd-6.53.0/pmd_rules_java_codestyle.html#unnecessaryimport" priority="4">
+Unused import 'com.mastercard.dxp.entity.ItemCategory'
+</violation>
+<violation beginline="9" endline="9" begincolumn="1" endcolumn="19" rule="UnnecessaryImport" ruleset="Code Style" package="com.mastercard.dxp.dto" class="ItemDto2" externalInfoUrl="https://pmd.github.io/pmd-6.53.0/pmd_rules_java_codestyle.html#unnecessaryimport" priority="4">
+Unused import 'lombok.Data'
+</violation>
+</file>
+<file name="C:\Users\sarbajeet.singh\OneDrive - HCL Technologies Ltd\Documents\ChatApplication_OnboardingPortal\ChatApplication_OnboardingPortal\src\main\java\com\mastercard\dxp\dto\ServiceRequestDto.java">
+<violation beginline="3" endline="3" begincolumn="1" endcolumn="49" rule="UnnecessaryImport" ruleset="Code Style" package="com.mastercard.dxp.dto" class="ServiceRequestDto" externalInfoUrl="https://pmd.github.io/pmd-6.53.0/pmd_rules_java_codestyle.html#unnecessaryimport" priority="4">
+Unused import 'com.mastercard.dxp.entity.User_credential'
+</violation>
+</file>
+<file name="C:\Users\sarbajeet.singh\OneDrive - HCL Technologies Ltd\Documents\ChatApplication_OnboardingPortal\ChatApplication_OnboardingPortal\src\main\java\com\mastercard\dxp\dto\ServiceRequestDto3.java">
+<violation beginline="3" endline="3" begincolumn="1" endcolumn="22" rule="UnnecessaryImport" ruleset="Code Style" package="com.mastercard.dxp.dto" class="ServiceRequestDto3" externalInfoUrl="https://pmd.github.io/pmd-6.53.0/pmd_rules_java_codestyle.html#unnecessaryimport" priority="4">
+Unused import 'java.util.Date'
+</violation>
+<violation beginline="5" endline="5" begincolumn="1" endcolumn="40" rule="UnnecessaryImport" ruleset="Code Style" package="com.mastercard.dxp.dto" class="ServiceRequestDto3" externalInfoUrl="https://pmd.github.io/pmd-6.53.0/pmd_rules_java_codestyle.html#unnecessaryimport" priority="4">
+Unused import 'javax.persistence.GeneratedValue'
+</violation>
+<violation beginline="6" endline="6" begincolumn="1" endcolumn="40" rule="UnnecessaryImport" ruleset="Code Style" package="com.mastercard.dxp.dto" class="ServiceRequestDto3" externalInfoUrl="https://pmd.github.io/pmd-6.53.0/pmd_rules_java_codestyle.html#unnecessaryimport" priority="4">
+Unused import 'javax.persistence.GenerationType'
+</violation>
+<violation beginline="7" endline="7" begincolumn="1" endcolumn="28" rule="UnnecessaryImport" ruleset="Code Style" package="com.mastercard.dxp.dto" class="ServiceRequestDto3" externalInfoUrl="https://pmd.github.io/pmd-6.53.0/pmd_rules_java_codestyle.html#unnecessaryimport" priority="4">
+Unused import 'javax.persistence.Id'
+</violation>
+<violation beginline="8" endline="8" begincolumn="1" endcolumn="43" rule="UnnecessaryImport" ruleset="Code Style" package="com.mastercard.dxp.dto" class="ServiceRequestDto3" externalInfoUrl="https://pmd.github.io/pmd-6.53.0/pmd_rules_java_codestyle.html#unnecessaryimport" priority="4">
+Unused import 'javax.persistence.SequenceGenerator'
+</violation>
+<violation beginline="10" endline="10" begincolumn="1" endcolumn="62" rule="UnnecessaryImport" ruleset="Code Style" package="com.mastercard.dxp.dto" class="ServiceRequestDto3" externalInfoUrl="https://pmd.github.io/pmd-6.53.0/pmd_rules_java_codestyle.html#unnecessaryimport" priority="4">
+Unused import 'org.springframework.beans.factory.annotation.Autowired'
+</violation>
+<violation beginline="12" endline="12" begincolumn="1" endcolumn="48" rule="UnnecessaryImport" ruleset="Code Style" package="com.mastercard.dxp.dto" class="ServiceRequestDto3" externalInfoUrl="https://pmd.github.io/pmd-6.53.0/pmd_rules_java_codestyle.html#unnecessaryimport" priority="4">
+Unused import 'com.mastercard.dxp.entity.ServiceRequest'
+</violation>
+<violation beginline="13" endline="13" begincolumn="1" endcolumn="62" rule="UnnecessaryImport" ruleset="Code Style" package="com.mastercard.dxp.dto" class="ServiceRequestDto3" externalInfoUrl="https://pmd.github.io/pmd-6.53.0/pmd_rules_java_codestyle.html#unnecessaryimport" priority="4">
+Unused import 'com.mastercard.dxp.repository.ServiceRequestRepository'
+</violation>
+<violation beginline="14" endline="14" begincolumn="1" endcolumn="53" rule="UnnecessaryImport" ruleset="Code Style" package="com.mastercard.dxp.dto" class="ServiceRequestDto3" externalInfoUrl="https://pmd.github.io/pmd-6.53.0/pmd_rules_java_codestyle.html#unnecessaryimport" priority="4">
+Unused import 'com.mastercard.dxp.repository.User_Repository'
+</violation>
+</file>
+<file name="C:\Users\sarbajeet.singh\OneDrive - HCL Technologies Ltd\Documents\ChatApplication_OnboardingPortal\ChatApplication_OnboardingPortal\src\main\java\com\mastercard\dxp\dto\ServiceRequestSrDto.java">
+<violation beginline="3" endline="3" begincolumn="1" endcolumn="22" rule="UnnecessaryImport" ruleset="Code Style" package="com.mastercard.dxp.dto" class="ServiceRequestSrDto" externalInfoUrl="https://pmd.github.io/pmd-6.53.0/pmd_rules_java_codestyle.html#unnecessaryimport" priority="4">
+Unused import 'java.util.Date'
+</violation>
+<violation beginline="5" endline="5" begincolumn="1" endcolumn="40" rule="UnnecessaryImport" ruleset="Code Style" package="com.mastercard.dxp.dto" class="ServiceRequestSrDto" externalInfoUrl="https://pmd.github.io/pmd-6.53.0/pmd_rules_java_codestyle.html#unnecessaryimport" priority="4">
+Unused import 'javax.persistence.GeneratedValue'
+</violation>
+<violation beginline="6" endline="6" begincolumn="1" endcolumn="40" rule="UnnecessaryImport" ruleset="Code Style" package="com.mastercard.dxp.dto" class="ServiceRequestSrDto" externalInfoUrl="https://pmd.github.io/pmd-6.53.0/pmd_rules_java_codestyle.html#unnecessaryimport" priority="4">
+Unused import 'javax.persistence.GenerationType'
+</violation>
+<violation beginline="7" endline="7" begincolumn="1" endcolumn="28" rule="UnnecessaryImport" ruleset="Code Style" package="com.mastercard.dxp.dto" class="ServiceRequestSrDto" externalInfoUrl="https://pmd.github.io/pmd-6.53.0/pmd_rules_java_codestyle.html#unnecessaryimport" priority="4">
+Unused import 'javax.persistence.Id'
+</violation>
+<violation beginline="8" endline="8" begincolumn="1" endcolumn="43" rule="UnnecessaryImport" ruleset="Code Style" package="com.mastercard.dxp.dto" class="ServiceRequestSrDto" externalInfoUrl="https://pmd.github.io/pmd-6.53.0/pmd_rules_java_codestyle.html#unnecessaryimport" priority="4">
+Unused import 'javax.persistence.SequenceGenerator'
+</violation>
+<violation beginline="10" endline="10" begincolumn="1" endcolumn="62" rule="UnnecessaryImport" ruleset="Code Style" package="com.mastercard.dxp.dto" class="ServiceRequestSrDto" externalInfoUrl="https://pmd.github.io/pmd-6.53.0/pmd_rules_java_codestyle.html#unnecessaryimport" priority="4">
+Unused import 'org.springframework.beans.factory.annotation.Autowired'
+</violation>
+<violation beginline="12" endline="12" begincolumn="1" endcolumn="48" rule="UnnecessaryImport" ruleset="Code Style" package="com.mastercard.dxp.dto" class="ServiceRequestSrDto" externalInfoUrl="https://pmd.github.io/pmd-6.53.0/pmd_rules_java_codestyle.html#unnecessaryimport" priority="4">
+Unused import 'com.mastercard.dxp.entity.ServiceRequest'
+</violation>
+<violation beginline="13" endline="13" begincolumn="1" endcolumn="62" rule="UnnecessaryImport" ruleset="Code Style" package="com.mastercard.dxp.dto" class="ServiceRequestSrDto" externalInfoUrl="https://pmd.github.io/pmd-6.53.0/pmd_rules_java_codestyle.html#unnecessaryimport" priority="4">
+Unused import 'com.mastercard.dxp.repository.ServiceRequestRepository'
+</violation>
+<violation beginline="14" endline="14" begincolumn="1" endcolumn="53" rule="UnnecessaryImport" ruleset="Code Style" package="com.mastercard.dxp.dto" class="ServiceRequestSrDto" externalInfoUrl="https://pmd.github.io/pmd-6.53.0/pmd_rules_java_codestyle.html#unnecessaryimport" priority="4">
+Unused import 'com.mastercard.dxp.repository.User_Repository'
+</violation>
+</file>
+<file name="C:\Users\sarbajeet.singh\OneDrive - HCL Technologies Ltd\Documents\ChatApplication_OnboardingPortal\ChatApplication_OnboardingPortal\src\main\java\com\mastercard\dxp\entity\ItemCategory.java">
+<violation beginline="10" endline="10" begincolumn="1" endcolumn="36" rule="UnnecessaryImport" ruleset="Code Style" package="com.mastercard.dxp.entity" class="ItemCategory" externalInfoUrl="https://pmd.github.io/pmd-6.53.0/pmd_rules_java_codestyle.html#unnecessaryimport" priority="4">
+Unused import 'javax.persistence.JoinColumn'
+</violation>
+</file>
+<file name="C:\Users\sarbajeet.singh\OneDrive - HCL Technologies Ltd\Documents\ChatApplication_OnboardingPortal\ChatApplication_OnboardingPortal\src\main\java\com\mastercard\dxp\entity\ServiceRequest.java">
+<violation beginline="4" endline="4" begincolumn="1" endcolumn="22" rule="UnnecessaryImport" ruleset="Code Style" package="com.mastercard.dxp.entity" class="ServiceRequest" externalInfoUrl="https://pmd.github.io/pmd-6.53.0/pmd_rules_java_codestyle.html#unnecessaryimport" priority="4">
+Unused import 'java.util.List'
+</violation>
+<violation beginline="6" endline="6" begincolumn="1" endcolumn="37" rule="UnnecessaryImport" ruleset="Code Style" package="com.mastercard.dxp.entity" class="ServiceRequest" externalInfoUrl="https://pmd.github.io/pmd-6.53.0/pmd_rules_java_codestyle.html#unnecessaryimport" priority="4">
+Unused import 'javax.persistence.CascadeType'
+</violation>
+<violation beginline="9" endline="9" begincolumn="1" endcolumn="35" rule="UnnecessaryImport" ruleset="Code Style" package="com.mastercard.dxp.entity" class="ServiceRequest" externalInfoUrl="https://pmd.github.io/pmd-6.53.0/pmd_rules_java_codestyle.html#unnecessaryimport" priority="4">
+Unused import 'javax.persistence.FetchType'
+</violation>
+<violation beginline="15" endline="15" begincolumn="1" endcolumn="35" rule="UnnecessaryImport" ruleset="Code Style" package="com.mastercard.dxp.entity" class="ServiceRequest" externalInfoUrl="https://pmd.github.io/pmd-6.53.0/pmd_rules_java_codestyle.html#unnecessaryimport" priority="4">
+Unused import 'javax.persistence.OneToMany'
+</violation>
+<violation beginline="23" endline="23" begincolumn="1" endcolumn="52" rule="UnnecessaryImport" ruleset="Code Style" package="com.mastercard.dxp.entity" class="ServiceRequest" externalInfoUrl="https://pmd.github.io/pmd-6.53.0/pmd_rules_java_codestyle.html#unnecessaryimport" priority="4">
+Unused import 'com.fasterxml.jackson.annotation.JsonInclude'
+</violation>
+</file>
+<file name="C:\Users\sarbajeet.singh\OneDrive - HCL Technologies Ltd\Documents\ChatApplication_OnboardingPortal\ChatApplication_OnboardingPortal\src\main\java\com\mastercard\dxp\entity\Template.java">
+<violation beginline="14" endline="14" begincolumn="1" endcolumn="43" rule="UnnecessaryImport" ruleset="Code Style" package="com.mastercard.dxp.entity" class="Template" externalInfoUrl="https://pmd.github.io/pmd-6.53.0/pmd_rules_java_codestyle.html#unnecessaryimport" priority="4">
+Unused import 'javax.persistence.SequenceGenerator'
+</violation>
+</file>
+<file name="C:\Users\sarbajeet.singh\OneDrive - HCL Technologies Ltd\Documents\ChatApplication_OnboardingPortal\ChatApplication_OnboardingPortal\src\main\java\com\mastercard\dxp\entity\UserChat.java">
+<violation beginline="3" endline="3" begincolumn="1" endcolumn="22" rule="UnnecessaryImport" ruleset="Code Style" package="com.mastercard.dxp.entity" class="UserChat" externalInfoUrl="https://pmd.github.io/pmd-6.53.0/pmd_rules_java_codestyle.html#unnecessaryimport" priority="4">
+Unused import 'java.util.List'
+</violation>
+<violation beginline="5" endline="5" begincolumn="1" endcolumn="37" rule="UnnecessaryImport" ruleset="Code Style" package="com.mastercard.dxp.entity" class="UserChat" externalInfoUrl="https://pmd.github.io/pmd-6.53.0/pmd_rules_java_codestyle.html#unnecessaryimport" priority="4">
+Unused import 'javax.persistence.CascadeType'
+</violation>
+<violation beginline="7" endline="7" begincolumn="1" endcolumn="35" rule="UnnecessaryImport" ruleset="Code Style" package="com.mastercard.dxp.entity" class="UserChat" externalInfoUrl="https://pmd.github.io/pmd-6.53.0/pmd_rules_java_codestyle.html#unnecessaryimport" priority="4">
+Unused import 'javax.persistence.FetchType'
+</violation>
+<violation beginline="13" endline="13" begincolumn="1" endcolumn="35" rule="UnnecessaryImport" ruleset="Code Style" package="com.mastercard.dxp.entity" class="UserChat" externalInfoUrl="https://pmd.github.io/pmd-6.53.0/pmd_rules_java_codestyle.html#unnecessaryimport" priority="4">
+Unused import 'javax.persistence.OneToMany'
+</violation>
+</file>
+<file name="C:\Users\sarbajeet.singh\OneDrive - HCL Technologies Ltd\Documents\ChatApplication_OnboardingPortal\ChatApplication_OnboardingPortal\src\main\java\com\mastercard\dxp\entity\User_credential.java">
+<violation beginline="3" endline="3" begincolumn="1" endcolumn="22" rule="UnnecessaryImport" ruleset="Code Style" package="com.mastercard.dxp.entity" class="User_credential" externalInfoUrl="https://pmd.github.io/pmd-6.53.0/pmd_rules_java_codestyle.html#unnecessaryimport" priority="4">
+Unused import 'java.util.List'
+</violation>
+<violation beginline="5" endline="5" begincolumn="1" endcolumn="37" rule="UnnecessaryImport" ruleset="Code Style" package="com.mastercard.dxp.entity" class="User_credential" externalInfoUrl="https://pmd.github.io/pmd-6.53.0/pmd_rules_java_codestyle.html#unnecessaryimport" priority="4">
+Unused import 'javax.persistence.CascadeType'
+</violation>
+<violation beginline="8" endline="8" begincolumn="1" endcolumn="40" rule="UnnecessaryImport" ruleset="Code Style" package="com.mastercard.dxp.entity" class="User_credential" externalInfoUrl="https://pmd.github.io/pmd-6.53.0/pmd_rules_java_codestyle.html#unnecessaryimport" priority="4">
+Unused import 'javax.persistence.GeneratedValue'
+</violation>
+<violation beginline="9" endline="9" begincolumn="1" endcolumn="40" rule="UnnecessaryImport" ruleset="Code Style" package="com.mastercard.dxp.entity" class="User_credential" externalInfoUrl="https://pmd.github.io/pmd-6.53.0/pmd_rules_java_codestyle.html#unnecessaryimport" priority="4">
+Unused import 'javax.persistence.GenerationType'
+</violation>
+<violation beginline="11" endline="11" begincolumn="1" endcolumn="36" rule="UnnecessaryImport" ruleset="Code Style" package="com.mastercard.dxp.entity" class="User_credential" externalInfoUrl="https://pmd.github.io/pmd-6.53.0/pmd_rules_java_codestyle.html#unnecessaryimport" priority="4">
+Unused import 'javax.persistence.JoinColumn'
+</violation>
+<violation beginline="12" endline="12" begincolumn="1" endcolumn="35" rule="UnnecessaryImport" ruleset="Code Style" package="com.mastercard.dxp.entity" class="User_credential" externalInfoUrl="https://pmd.github.io/pmd-6.53.0/pmd_rules_java_codestyle.html#unnecessaryimport" priority="4">
+Unused import 'javax.persistence.ManyToOne'
+</violation>
+<violation beginline="13" endline="13" begincolumn="1" endcolumn="35" rule="UnnecessaryImport" ruleset="Code Style" package="com.mastercard.dxp.entity" class="User_credential" externalInfoUrl="https://pmd.github.io/pmd-6.53.0/pmd_rules_java_codestyle.html#unnecessaryimport" priority="4">
+Unused import 'javax.persistence.OneToMany'
+</violation>
+<violation beginline="16" endline="16" begincolumn="1" endcolumn="52" rule="UnnecessaryImport" ruleset="Code Style" package="com.mastercard.dxp.entity" class="User_credential" externalInfoUrl="https://pmd.github.io/pmd-6.53.0/pmd_rules_java_codestyle.html#unnecessaryimport" priority="4">
+Unused import 'com.fasterxml.jackson.annotation.JsonInclude'
+</violation>
+</file>
+<file name="C:\Users\sarbajeet.singh\OneDrive - HCL Technologies Ltd\Documents\ChatApplication_OnboardingPortal\ChatApplication_OnboardingPortal\src\main\java\com\mastercard\dxp\repository\ItemCategoryRepository.java">
+<violation beginline="18" endline="18" begincolumn="9" endcolumn="39" rule="UnnecessaryModifier" ruleset="Code Style" package="com.mastercard.dxp.repository" class="ItemCategoryRepository" method="getCategoryName" externalInfoUrl="https://pmd.github.io/pmd-6.53.0/pmd_rules_java_codestyle.html#unnecessarymodifier" priority="3">
+Unnecessary modifier 'public' on method 'getCategoryName': the method is declared in an interface type
+</violation>
+</file>
+<file name="C:\Users\sarbajeet.singh\OneDrive - HCL Technologies Ltd\Documents\ChatApplication_OnboardingPortal\ChatApplication_OnboardingPortal\src\main\java\com\mastercard\dxp\repository\ModuleRepository.java">
+<violation beginline="16" endline="16" begincolumn="9" endcolumn="37" rule="UnnecessaryModifier" ruleset="Code Style" package="com.mastercard.dxp.repository" class="ModuleRepository" method="getModuleName" externalInfoUrl="https://pmd.github.io/pmd-6.53.0/pmd_rules_java_codestyle.html#unnecessarymodifier" priority="3">
+Unnecessary modifier 'public' on method 'getModuleName': the method is declared in an interface type
+</violation>
+</file>
+<file name="C:\Users\sarbajeet.singh\OneDrive - HCL Technologies Ltd\Documents\ChatApplication_OnboardingPortal\ChatApplication_OnboardingPortal\src\main\java\com\mastercard\dxp\repository\ServiceRequestRepository.java">
+<violation beginline="4" endline="4" begincolumn="1" endcolumn="26" rule="UnnecessaryImport" ruleset="Code Style" package="com.mastercard.dxp.repository" class="ServiceRequestRepository" externalInfoUrl="https://pmd.github.io/pmd-6.53.0/pmd_rules_java_codestyle.html#unnecessaryimport" priority="4">
+Unused import 'java.util.Optional'
+</violation>
+<violation beginline="7" endline="7" begincolumn="1" endcolumn="53" rule="UnnecessaryImport" ruleset="Code Style" package="com.mastercard.dxp.repository" class="ServiceRequestRepository" externalInfoUrl="https://pmd.github.io/pmd-6.53.0/pmd_rules_java_codestyle.html#unnecessaryimport" priority="4">
+Unused import 'org.springframework.data.jpa.repository.Query'
+</violation>
+<violation beginline="10" endline="10" begincolumn="1" endcolumn="40" rule="UnnecessaryImport" ruleset="Code Style" package="com.mastercard.dxp.repository" class="ServiceRequestRepository" externalInfoUrl="https://pmd.github.io/pmd-6.53.0/pmd_rules_java_codestyle.html#unnecessaryimport" priority="4">
+Unused import 'com.mastercard.dxp.entity.Module'
+</violation>
+<violation beginline="12" endline="12" begincolumn="1" endcolumn="49" rule="UnnecessaryImport" ruleset="Code Style" package="com.mastercard.dxp.repository" class="ServiceRequestRepository" externalInfoUrl="https://pmd.github.io/pmd-6.53.0/pmd_rules_java_codestyle.html#unnecessaryimport" priority="4">
+Unused import 'com.mastercard.dxp.entity.User_credential'
+</violation>
+</file>
+<file name="C:\Users\sarbajeet.singh\OneDrive - HCL Technologies Ltd\Documents\ChatApplication_OnboardingPortal\ChatApplication_OnboardingPortal\src\main\java\com\mastercard\dxp\repository\TemplateRepository.java">
+<violation beginline="14" endline="14" begincolumn="9" endcolumn="49" rule="UnnecessaryModifier" ruleset="Code Style" package="com.mastercard.dxp.repository" class="TemplateRepository" method="findByName" externalInfoUrl="https://pmd.github.io/pmd-6.53.0/pmd_rules_java_codestyle.html#unnecessarymodifier" priority="3">
+Unnecessary modifier 'public' on method 'findByName': the method is declared in an interface type
+</violation>
+<violation beginline="17" endline="17" begincolumn="9" endcolumn="39" rule="UnnecessaryModifier" ruleset="Code Style" package="com.mastercard.dxp.repository" class="TemplateRepository" method="getTemplateName" externalInfoUrl="https://pmd.github.io/pmd-6.53.0/pmd_rules_java_codestyle.html#unnecessarymodifier" priority="3">
+Unnecessary modifier 'public' on method 'getTemplateName': the method is declared in an interface type
+</violation>
+<violation beginline="20" endline="20" begincolumn="9" endcolumn="50" rule="UnnecessaryModifier" ruleset="Code Style" package="com.mastercard.dxp.repository" class="TemplateRepository" method="getByName" externalInfoUrl="https://pmd.github.io/pmd-6.53.0/pmd_rules_java_codestyle.html#unnecessarymodifier" priority="3">
+Unnecessary modifier 'public' on method 'getByName': the method is declared in an interface type
+</violation>
+</file>
+<file name="C:\Users\sarbajeet.singh\OneDrive - HCL Technologies Ltd\Documents\ChatApplication_OnboardingPortal\ChatApplication_OnboardingPortal\src\main\java\com\mastercard\dxp\repository\UserChatRepository.java">
+<violation beginline="8" endline="8" begincolumn="1" endcolumn="48" rule="UnnecessaryImport" ruleset="Code Style" package="com.mastercard.dxp.repository" class="UserChatRepository" externalInfoUrl="https://pmd.github.io/pmd-6.53.0/pmd_rules_java_codestyle.html#unnecessaryimport" priority="4">
+Unused import 'com.mastercard.dxp.entity.ServiceRequest'
+</violation>
+</file>
+<file name="C:\Users\sarbajeet.singh\OneDrive - HCL Technologies Ltd\Documents\ChatApplication_OnboardingPortal\ChatApplication_OnboardingPortal\src\main\java\com\mastercard\dxp\service\ItemCategoryServiceImpl.java">
+<violation beginline="77" endline="77" begincolumn="15" endcolumn="91" rule="UnusedPrivateMethod" ruleset="Best Practices" package="com.mastercard.dxp.service" class="ItemCategoryServiceImpl" method="mapDto2ToEntity" externalInfoUrl="https://pmd.github.io/pmd-6.53.0/pmd_rules_java_bestpractices.html#unusedprivatemethod" priority="3">
+Avoid unused private methods such as 'mapDto2ToEntity(ItemCategoryDto2,ItemCategory)'.
+</violation>
+</file>
+<file name="C:\Users\sarbajeet.singh\OneDrive - HCL Technologies Ltd\Documents\ChatApplication_OnboardingPortal\ChatApplication_OnboardingPortal\src\main\java\com\mastercard\dxp\service\ItemService.java">
+<violation beginline="14" endline="14" begincolumn="9" endcolumn="55" rule="UnnecessaryModifier" ruleset="Code Style" package="com.mastercard.dxp.service" class="ItemService" method="updateItem" externalInfoUrl="https://pmd.github.io/pmd-6.53.0/pmd_rules_java_codestyle.html#unnecessarymodifier" priority="3">
+Unnecessary modifier 'public' on method 'updateItem': the method is declared in an interface type
+</violation>
+<violation beginline="16" endline="16" begincolumn="9" endcolumn="38" rule="UnnecessaryModifier" ruleset="Code Style" package="com.mastercard.dxp.service" class="ItemService" method="deleteItem" externalInfoUrl="https://pmd.github.io/pmd-6.53.0/pmd_rules_java_codestyle.html#unnecessarymodifier" priority="3">
+Unnecessary modifier 'public' on method 'deleteItem': the method is declared in an interface type
+</violation>
+<violation beginline="18" endline="18" begincolumn="9" endcolumn="73" rule="UnnecessaryModifier" ruleset="Code Style" package="com.mastercard.dxp.service" class="ItemService" method="addItem" externalInfoUrl="https://pmd.github.io/pmd-6.53.0/pmd_rules_java_codestyle.html#unnecessarymodifier" priority="3">
+Unnecessary modifier 'public' on method 'addItem': the method is declared in an interface type
+</violation>
+<violation beginline="19" endline="19" begincolumn="9" endcolumn="35" rule="UnnecessaryModifier" ruleset="Code Style" package="com.mastercard.dxp.service" class="ItemService" method="getAllItem" externalInfoUrl="https://pmd.github.io/pmd-6.53.0/pmd_rules_java_codestyle.html#unnecessarymodifier" priority="3">
+Unnecessary modifier 'public' on method 'getAllItem': the method is declared in an interface type
+</violation>
+<violation beginline="21" endline="21" begincolumn="9" endcolumn="46" rule="UnnecessaryModifier" ruleset="Code Style" package="com.mastercard.dxp.service" class="ItemService" method="getItemById" externalInfoUrl="https://pmd.github.io/pmd-6.53.0/pmd_rules_java_codestyle.html#unnecessarymodifier" priority="3">
+Unnecessary modifier 'public' on method 'getItemById': the method is declared in an interface type
+</violation>
+<violation beginline="23" endline="23" begincolumn="9" endcolumn="50" rule="UnnecessaryModifier" ruleset="Code Style" package="com.mastercard.dxp.service" class="ItemService" method="getItemByName" externalInfoUrl="https://pmd.github.io/pmd-6.53.0/pmd_rules_java_codestyle.html#unnecessarymodifier" priority="3">
+Unnecessary modifier 'public' on method 'getItemByName': the method is declared in an interface type
+</violation>
+</file>
+<file name="C:\Users\sarbajeet.singh\OneDrive - HCL Technologies Ltd\Documents\ChatApplication_OnboardingPortal\ChatApplication_OnboardingPortal\src\main\java\com\mastercard\dxp\service\ModuleService.java">
+<violation beginline="10" endline="10" begincolumn="9" endcolumn="49" rule="UnnecessaryModifier" ruleset="Code Style" package="com.mastercard.dxp.service" class="ModuleService" method="addModule" externalInfoUrl="https://pmd.github.io/pmd-6.53.0/pmd_rules_java_codestyle.html#unnecessarymodifier" priority="3">
+Unnecessary modifier 'public' on method 'addModule': the method is declared in an interface type
+</violation>
+<violation beginline="12" endline="12" begincolumn="9" endcolumn="39" rule="UnnecessaryModifier" ruleset="Code Style" package="com.mastercard.dxp.service" class="ModuleService" method="getAllModule" externalInfoUrl="https://pmd.github.io/pmd-6.53.0/pmd_rules_java_codestyle.html#unnecessarymodifier" priority="3">
+Unnecessary modifier 'public' on method 'getAllModule': the method is declared in an interface type
+</violation>
+<violation beginline="14" endline="14" begincolumn="9" endcolumn="69" rule="UnnecessaryModifier" ruleset="Code Style" package="com.mastercard.dxp.service" class="ModuleService" method="updateModule" externalInfoUrl="https://pmd.github.io/pmd-6.53.0/pmd_rules_java_codestyle.html#unnecessarymodifier" priority="3">
+Unnecessary modifier 'public' on method 'updateModule': the method is declared in an interface type
+</violation>
+<violation beginline="16" endline="16" begincolumn="9" endcolumn="46" rule="UnnecessaryModifier" ruleset="Code Style" package="com.mastercard.dxp.service" class="ModuleService" method="deleteModule" externalInfoUrl="https://pmd.github.io/pmd-6.53.0/pmd_rules_java_codestyle.html#unnecessarymodifier" priority="3">
+Unnecessary modifier 'public' on method 'deleteModule': the method is declared in an interface type
+</violation>
+<violation beginline="18" endline="18" begincolumn="9" endcolumn="37" rule="UnnecessaryModifier" ruleset="Code Style" package="com.mastercard.dxp.service" class="ModuleService" method="getModuleName" externalInfoUrl="https://pmd.github.io/pmd-6.53.0/pmd_rules_java_codestyle.html#unnecessarymodifier" priority="3">
+Unnecessary modifier 'public' on method 'getModuleName': the method is declared in an interface type
+</violation>
+<violation beginline="20" endline="20" begincolumn="9" endcolumn="50" rule="UnnecessaryModifier" ruleset="Code Style" package="com.mastercard.dxp.service" class="ModuleService" method="getModuleById" externalInfoUrl="https://pmd.github.io/pmd-6.53.0/pmd_rules_java_codestyle.html#unnecessarymodifier" priority="3">
+Unnecessary modifier 'public' on method 'getModuleById': the method is declared in an interface type
+</violation>
+</file>
+<file name="C:\Users\sarbajeet.singh\OneDrive - HCL Technologies Ltd\Documents\ChatApplication_OnboardingPortal\ChatApplication_OnboardingPortal\src\main\java\com\mastercard\dxp\service\ModuleServiceImpl.java">
+<violation beginline="9" endline="9" begincolumn="1" endcolumn="33" rule="UnnecessaryImport" ruleset="Code Style" package="com.mastercard.dxp.service" class="ModuleServiceImpl" externalInfoUrl="https://pmd.github.io/pmd-6.53.0/pmd_rules_java_codestyle.html#unnecessaryimport" priority="4">
+Unused import 'javax.annotation.Resource'
+</violation>
+<violation beginline="15" endline="15" begincolumn="1" endcolumn="61" rule="UnnecessaryImport" ruleset="Code Style" package="com.mastercard.dxp.service" class="ModuleServiceImpl" externalInfoUrl="https://pmd.github.io/pmd-6.53.0/pmd_rules_java_codestyle.html#unnecessaryimport" priority="4">
+Unused import 'com.mastercard.dxp.controller.DuplicateValueException'
+</violation>
+</file>
+<file name="C:\Users\sarbajeet.singh\OneDrive - HCL Technologies Ltd\Documents\ChatApplication_OnboardingPortal\ChatApplication_OnboardingPortal\src\main\java\com\mastercard\dxp\service\SRService.java">
+<violation beginline="10" endline="10" begincolumn="1" endcolumn="40" rule="UnnecessaryImport" ruleset="Code Style" package="com.mastercard.dxp.service" class="SRService" externalInfoUrl="https://pmd.github.io/pmd-6.53.0/pmd_rules_java_codestyle.html#unnecessaryimport" priority="4">
+Unused import 'com.mastercard.dxp.entity.Module'
+</violation>
+</file>
+<file name="C:\Users\sarbajeet.singh\OneDrive - HCL Technologies Ltd\Documents\ChatApplication_OnboardingPortal\ChatApplication_OnboardingPortal\src\main\java\com\mastercard\dxp\service\TemplateService.java">
+<violation beginline="10" endline="10" begincolumn="9" endcolumn="67" rule="UnnecessaryModifier" ruleset="Code Style" package="com.mastercard.dxp.service" class="TemplateService" method="updateTemplate" externalInfoUrl="https://pmd.github.io/pmd-6.53.0/pmd_rules_java_codestyle.html#unnecessarymodifier" priority="3">
+Unnecessary modifier 'public' on method 'updateTemplate': the method is declared in an interface type
+</violation>
+<violation beginline="12" endline="12" begincolumn="9" endcolumn="42" rule="UnnecessaryModifier" ruleset="Code Style" package="com.mastercard.dxp.service" class="TemplateService" method="deleteTemplate" externalInfoUrl="https://pmd.github.io/pmd-6.53.0/pmd_rules_java_codestyle.html#unnecessarymodifier" priority="3">
+Unnecessary modifier 'public' on method 'deleteTemplate': the method is declared in an interface type
+</violation>
+<violation beginline="14" endline="14" begincolumn="9" endcolumn="57" rule="UnnecessaryModifier" ruleset="Code Style" package="com.mastercard.dxp.service" class="TemplateService" method="addTemplate" externalInfoUrl="https://pmd.github.io/pmd-6.53.0/pmd_rules_java_codestyle.html#unnecessarymodifier" priority="3">
+Unnecessary modifier 'public' on method 'addTemplate': the method is declared in an interface type
+</violation>
+<violation beginline="16" endline="16" begincolumn="9" endcolumn="43" rule="UnnecessaryModifier" ruleset="Code Style" package="com.mastercard.dxp.service" class="TemplateService" method="getAllTemplate" externalInfoUrl="https://pmd.github.io/pmd-6.53.0/pmd_rules_java_codestyle.html#unnecessarymodifier" priority="3">
+Unnecessary modifier 'public' on method 'getAllTemplate': the method is declared in an interface type
+</violation>
+<violation beginline="18" endline="18" begincolumn="9" endcolumn="41" rule="UnnecessaryModifier" ruleset="Code Style" package="com.mastercard.dxp.service" class="TemplateService" method="getTemplateName" externalInfoUrl="https://pmd.github.io/pmd-6.53.0/pmd_rules_java_codestyle.html#unnecessarymodifier" priority="3">
+Unnecessary modifier 'public' on method 'getTemplateName': the method is declared in an interface type
+</violation>
+<violation beginline="20" endline="20" begincolumn="9" endcolumn="54" rule="UnnecessaryModifier" ruleset="Code Style" package="com.mastercard.dxp.service" class="TemplateService" method="getTemplateById" externalInfoUrl="https://pmd.github.io/pmd-6.53.0/pmd_rules_java_codestyle.html#unnecessarymodifier" priority="3">
+Unnecessary modifier 'public' on method 'getTemplateById': the method is declared in an interface type
+</violation>
+</file>
+<file name="C:\Users\sarbajeet.singh\OneDrive - HCL Technologies Ltd\Documents\ChatApplication_OnboardingPortal\ChatApplication_OnboardingPortal\src\main\java\com\mastercard\dxp\service\TemplateServiceImpl.java">
+<violation beginline="9" endline="9" begincolumn="1" endcolumn="33" rule="UnnecessaryImport" ruleset="Code Style" package="com.mastercard.dxp.service" class="TemplateServiceImpl" externalInfoUrl="https://pmd.github.io/pmd-6.53.0/pmd_rules_java_codestyle.html#unnecessaryimport" priority="4">
+Unused import 'javax.annotation.Resource'
+</violation>
+</file>
+<file name="C:\Users\sarbajeet.singh\OneDrive - HCL Technologies Ltd\Documents\ChatApplication_OnboardingPortal\ChatApplication_OnboardingPortal\src\main\java\com\mastercard\dxp\service\UserChatService.java">
+<violation beginline="9" endline="9" begincolumn="1" endcolumn="50" rule="UnnecessaryImport" ruleset="Code Style" package="com.mastercard.dxp.service" class="UserChatService" externalInfoUrl="https://pmd.github.io/pmd-6.53.0/pmd_rules_java_codestyle.html#unnecessaryimport" priority="4">
+Unused import 'com.mastercard.dxp.dto.ServiceRequestSrDto'
+</violation>
+</file>
+</pmd>

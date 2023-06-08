@@ -1,0 +1,10 @@
+com\mastercard\dxp\dto\ModuleDto.class
+com\mastercard\dxp\dto\UserChatDto.class
+com\mastercard\dxp\dto\TemplateDto.class
+com\mastercard\dxp\entity\Template.class
+com\mastercard\dxp\repository\ItemCategoryRepository.class
+com\mastercard\dxp\entity\ItemCategory.class
+com\mastercard\dxp\dto\ItemCategoryDto2.class
+com\mastercard\dxp\entity\Item.class
+com\mastercard\dxp\repository\ItemRepository.class
+com\mastercard\dxp\entity\Module.class
